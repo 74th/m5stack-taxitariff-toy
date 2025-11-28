@@ -1,9 +1,9 @@
-# taxi tariff toy
+# Taxi Tariff Toy
 
 - M5Stack Basic: https://www.switch-science.com/products/9010
 - M5Stack Michanical Key Button Unit: https://www.switch-science.com/products/8303
 
-## build
+## how to build
 
 ### VS Code
 
